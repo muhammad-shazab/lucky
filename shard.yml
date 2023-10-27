@@ -31,7 +31,7 @@ targets:
 dependencies:
   lucky_cli:
     github: luckyframework/lucky_cli
-    version: 0.23.0
+    commit: a8719814fdfef9a94cc71dfe6d8c1cf3d2b54c89
   habitat:
     github: luckyframework/habitat
     version: 0.4.4
